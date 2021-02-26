@@ -1,0 +1,9 @@
+[submodule "React-frontend-app"]
+	path = React-frontend-app
+	url = https://github.com/Vipulsh/ProfileCreator.git
+[submodule "RestAPI"]
+	path = RestAPI
+	url = https://github.com/Vipulsh/ProfileCreator.git
+[submodule "react-frontend-app"]
+	path = react-frontend-app
+	url = https://github.com/Vipulsh/ProfileCreator.git
